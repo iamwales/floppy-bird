@@ -1,2 +1,2 @@
 # floppy-bird
-my firat github project
+Game on playstore
